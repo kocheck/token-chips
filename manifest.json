@@ -1,19 +1,11 @@
 {
-  "name": "token chips",
-  "id": "1389949648125251678",
+  "name": "Git Var",
+  "id": "git-var",
   "api": "1.0.0",
-  "main": "code.js",
-  "capabilities": [],
-  "enableProposedApi": false,
-  "documentAccess": "dynamic-page",
-  "editorType": [
-    "figma",
-    "figjam"
-  ],
-  "ui": "ui.html",
+  "main": "dist/main.js",
+  "ui": "dist/ui.html",
+  "editorType": ["figma"],
   "networkAccess": {
-    "allowedDomains": [
-      "none"
-    ]
+    "allowedDomains": ["https://api.github.com"]
   }
 }

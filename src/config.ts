@@ -1,0 +1,3 @@
+export const GITHUB_TOKEN = 'YOUR_GITHUB_TOKEN';
+export const REPO_OWNER = 'YOUR_GITHUB_USERNAME';
+export const REPO_NAME = 'YOUR_REPO_NAME';
